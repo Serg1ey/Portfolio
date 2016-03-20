@@ -5,7 +5,7 @@ My works
 <div>My name is <strong>Sergey Zaparenko</strong>. This page is my little blog, where I'll be keep my helpful information about me, and for me</div>
 
 <ul>
-    <li><a href='https://github.com/Serg1ey'>My works</a></li>
+    <li><a href='https://github.com/Serg1ey?tab=repositories'>My works</a></li>
     <li>Plugins or helpful code that I wrote or used ever.</li>
 </ul>
 
