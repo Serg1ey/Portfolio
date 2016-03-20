@@ -1,5 +1,4 @@
 # portfolio
-My works
 
 <h1>Hello everyone!</h1>
 <div>My name is <strong>Sergey Zaparenko</strong>. This page is my little blog, where I'll be keep my helpful information about me, and for me</div>
