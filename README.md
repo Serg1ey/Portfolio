@@ -78,12 +78,6 @@ My works
 
 <<<<a href='https://github.com/Serg1ey'>Home</a>>>>
 
-<ul>
-    <li><a href='https://github.com/zhe1ka/projects#responsive'>Responsive</a></li>
-    <li><a href='https://github.com/zhe1ka/projects#websites-on-wordpress'>Websites on WordPress</a></li>
-    <li><a href='https://github.com/zhe1ka/projects#landing-pages'>Landing pages</a></li>
-    <li><a href='https://github.com/zhe1ka/projects/#front-end'>Front-end</a></li>
-</ul>
 
 
 
