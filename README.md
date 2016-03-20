@@ -76,7 +76,7 @@ My works
   
 </table>
 
-<<<<a href='https://github.com/zhe1ka/mainPage'>Home</a>>>>
+<<<<a href='https://github.com/Serg1ey'>Home</a>>>>
 
 <ul>
     <li><a href='https://github.com/zhe1ka/projects#responsive'>Responsive</a></li>
