@@ -49,25 +49,25 @@
   
   <tr>
     <td>HTML + CSS/responisive/bootstrap</td>
-    <td>4.2013</td>
+    <td>1.2015</td>
     <td>high</td>
   </tr>
   
   <tr>
-    <td>JavaScript/jQuery</td>
-    <td>10.2013</td>
+    <td>jQuery</td>
+    <td>10.2015</td>
     <td>middle/high</td>
   </tr>
   
   <tr>
     <td>PHP</td>
-    <td>5.2015</td>
+    <td>1.2016</td>
     <td>low</td>
   </tr>
   
   <tr>
     <td>WordPress</td>
-    <td>7.2015</td>
+    <td>1.2016</td>
     <td>low</td>
   </tr>
   
