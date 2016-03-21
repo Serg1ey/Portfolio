@@ -5,7 +5,6 @@
 
 <ul>
     <li><a href='https://github.com/Serg1ey?tab=repositories'>My works</a></li>
-    <li>Plugins or helpful code that I wrote or used ever.</li>
 </ul>
 
 <h1>Sergey Zaparenko</h1>
@@ -74,7 +73,6 @@
   
 </table>
 
-<<<<a href='https://github.com/Serg1ey'>Home</a>>>>
 
 
 
